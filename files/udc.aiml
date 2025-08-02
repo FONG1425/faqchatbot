@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>What are New User benefits?</pattern>
+    <template>New User benefits refer to the range of perks offered to a user who has recently joined Shopee. The benefits include exclusive vouchers, mobile reloads promos, and exclusive deals.\n\nYou can find New User benefits by taking the following actions:\n1. Search NEW USER ZONE on the Shopee app\n2. View and enjoy New User Benefits</template>
+  </category>
+<category>
+    <pattern>Hallo</pattern>
+    <template>Hi What can i help you</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+	<pattern>WHAT ARE NEW USER BENEFITS?</pattern>
+	<template>New User benefits refer to the range of perks offered to a user who has recently joined Shopee. The benefits include exclusive vouchers, mobile reloads promos, and exclusive deals.\n\nYou can find New User benefits by taking the following actions:\n1. Search NEW USER ZONE on the Shopee app\n2. View and enjoy New User Benefits</template>
+</category>
+
+</aiml>
